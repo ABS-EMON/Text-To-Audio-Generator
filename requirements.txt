@@ -2,3 +2,4 @@ flask
 edge-tts
 langdetect
 asyncio
+gunicorn
